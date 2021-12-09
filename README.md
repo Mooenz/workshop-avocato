@@ -1,10 +1,29 @@
-# **Hi 👋, Thaks for your visit 🥰**
-Its my firts web app, avocato is a aguacate shop where you will find aguacate ready for comsumption.
+# **Workshop Avocato**
 
-## **Things to improve**
+Avocato is a avocado shop where you will find avocado ready for comsumption.
 
-1. Shop car
+## **Demo** 🚀
 
-eventually I will add code.
+[View Demo](https://mooenz.github.io/workshop-avocato/)
 
-***With ❤️ Mooenz***
+## **Tools** 🔨
+
+- HTML
+- SCSS
+- SnowPack
+- JS Vanilla
+
+## **Preview** 📷
+
+![Preview Proyecto](./preview.jpg)
+
+## **Contact** 📧
+
+- Linkedin [Mooenz](https://www.linkedin.com/in/mooenz/)
+- Web Site [Curriculum Vitae](https://mooenz.github.io/curriculum-vitae/)
+
+## **Licencie** 🛸
+
+This project is MIT licensed
+
+***With*** ❤️ ***Mooenz***
